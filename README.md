@@ -57,7 +57,7 @@ best practices in software engineering, or the art of simplifying the complex, I
 
 ### Links
 
-- [Operately](github.com/operately/operately)
-- [Twitter](https://x.com/igor_sarcevic)
-- [LinkedIn](https://www.linkedin.com/in/igorsarcevic)
-- [Blog](https://morningcoffee.io)
+- [Operately](github.com/operately/operately) — The open-source startup operating system
+- [Twitter](https://x.com/igor_sarcevic) - Connect with me on Twitter/X
+- [LinkedIn](https://www.linkedin.com/in/igorsarcevic) - Say hi on LinkedIn
+- [Blog](https://morningcoffee.io) - I occasionaly write on my blog about software engineering
