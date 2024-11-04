@@ -1,6 +1,6 @@
 ## Hey, I’m Igor 👋
 
-Founder of [Operately](github.com/operately/operately), Software Engineer, and formerly the Lead 
+Founder of [Operately](https://github.com/operately/operately), Software Engineer, and formerly the Lead 
 Architect at [SemaphoreCI](https://semaphoreci.com). My journey in tech has been driven by a passion 
 for building tools that simplify complex processes and help people get meaningful work done. Beyond 
 the keyboard, I’m a cat and dog person, a coffee enthusiast, a hiker who enjoys the challenge and 
